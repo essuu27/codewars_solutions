@@ -10,7 +10,3 @@ def is_valid_walk(steps):
     return False
   return False
 
-print(is_valid_walk(['n','s','n','s','n','s','n','s','n','s']))
-print(is_valid_walk(['w','e','w','e','w','e','w','e','w','e','w','e']))
-print(is_valid_walk(['w']))
-print(is_valid_walk(['n','n','n','s','n','s','n','s','n','s']))
